@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "servers": [
     "185.189.255.74",
     "145.239.149.84"
